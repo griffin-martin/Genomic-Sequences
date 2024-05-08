@@ -3,7 +3,7 @@ def read_sequences(file_path):
         sequences = []
         sequence = ''
         for line in file:
-            if line.startswith('>'):
+            if line.startswith('>'): 
                 if sequence:
                     sequences.append(sequence)
                     sequence = ''
