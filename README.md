@@ -10,3 +10,4 @@ Smallest_K_Value.py studies the notion that there is at least one value of k whe
 Pytest_code.py is code that aids in the implementation of a test that runs the three prior functions for their functionality. Simply write in the command line "pytest Pytest_code.py" to run. 
 
 All code was ran and tested through the command line of the terminal in an RStudio server. 
+Note that some code runs faster than others, specifically Smallest_K_Value.py and Pytest_code.py take around 1-2 minutes to run (at least on my end). 
